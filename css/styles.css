@@ -1,0 +1,25 @@
+.JSClickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.JSClickable:hover {
+  text-decoration: underline;
+}
+
+.JSHidden {
+  display: none;
+}
+
+.opClickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.opClickable:hover {
+  text-decoration: underline;
+}
+
+.opHidden {
+  display: none;
+}
